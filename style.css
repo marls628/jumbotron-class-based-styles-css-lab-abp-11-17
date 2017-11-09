@@ -59,3 +59,9 @@ div.jumbotron {
 .jumbotron h1 {
   font-size: 60px;
 }
+.jumbotron p {
+  font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  line-height: 40px;
+}
